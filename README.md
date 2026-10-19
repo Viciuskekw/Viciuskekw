@@ -10,8 +10,9 @@
 
   <div align="center"  style="margin-left: auto; margin-right: auto; width: fit-content;">
   <a href="https://viciuss.github.io/viciuss-github.io/">
-    <img src="https://minecraft.wiki/images/End_Portal_%28block%29.gif?70b39" alt="SIte" style="width: 100px; height: 100px; max-width: 100px; max-height: 100px;"/>
+    <img src="https://minecraft.wiki/images/Nether_portal_%28animated%29.png?26915" alt="SIte" style="width: 100px; height: 150px; max-width: 100px; max-height: 150px;"/>
   </a>
+    <p>Perdi minha outra conta no github, <a href="https://github.com/Viciuss">Acesse ela e veja meus projetos antigos!</a></p>
 </div>
 
 ## Interesses em Tecnologia: 
